@@ -1,3 +1,4 @@
+
 document.getElementById("phone-plass-btn").addEventListener("click", function () {
     const priducktQuentaty = incressInProducktQuentaty("phon-quentaty-fild");
     sateValueInInputFile("phon-quentaty-fild", incressInProducktQuentaty("phon-quentaty-fild"));
