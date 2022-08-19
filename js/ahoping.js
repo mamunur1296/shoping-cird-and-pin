@@ -22,3 +22,6 @@ document.getElementById("btn-case-less").addEventListener("click", function () {
     calculateProducktPrice(cashQuentaty, 59, "cash-price");
     rejultSubTaxTotal();
 })
+document.getElementById("Btn-check-out").addEventListener("click", function () {
+    window.location.href = "pin/pin.html";
+})
